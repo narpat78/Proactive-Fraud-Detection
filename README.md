@@ -13,7 +13,8 @@ This project demonstrates an **end-to-end fraud detection workflow** on a large 
   6. Evaluation with accuracy, confusion matrix, and classification report
   7. Action plan with prevention strategies and monitoring recommendations
  
-[Data Source]([https://docs.google.com/document/d/1-WhNRX1iYJIz7e5l28DMPWgsPklpE_w6/edit](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0))
+- [Dataset Source](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+- [Data Dictionary](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
 
 ## Tech Stack
 - Python
