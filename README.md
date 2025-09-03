@@ -4,6 +4,8 @@ This project demonstrates an **end-to-end fraud detection workflow** on a large 
 
 ## Project Overview
 - **Dataset**: Transactions with user accounts, balances, transaction type, and fraud labels.
+- [Dataset Source](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
+- [Data Dictionary](https://github.com/narpat78/Proactive-Fraud-Detection/blob/main/Data%20Dictionary.txt)
 - **Workflow**:
   1. Data cleaning (duplicates, missing values, outliers, multicollinearity)
   2. Exploratory Data Analysis (EDA) and visualization
@@ -12,9 +14,6 @@ This project demonstrates an **end-to-end fraud detection workflow** on a large 
   5. Modeling using Logistic Regression and Random Forest with imbalance handling
   6. Evaluation with accuracy, confusion matrix, and classification report
   7. Action plan with prevention strategies and monitoring recommendations
- 
-- [Dataset Source](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
-- [Data Dictionary](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
 
 ## Tech Stack
 - Python
